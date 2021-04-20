@@ -1,7 +1,9 @@
 # Regras de negócios para estudantes
+# inicialização do npm -- npm init -y
 # instalação jest npm i -D jest
 # execução watch All para ouvir as mudanças e realizar os testes npx jest --watchAll
 # todo+ extensão deste arquivo
+
 Regras:
     ✓ Devemos conseguir somar as notas dos alunos
     ✓ Se caso uma nota for zero a soma deve retornar zero
